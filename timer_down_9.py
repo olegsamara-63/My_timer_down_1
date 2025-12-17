@@ -4,6 +4,7 @@ import pyttsx3
 import os
 import platform
 #интерпретатор изменён на python 3.13.7
+#добавил коммент
 class CountdownTimer:
     def __init__(self, root):
         self.root = root
