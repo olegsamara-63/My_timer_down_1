@@ -3,7 +3,7 @@ from datetime import datetime, timedelta
 import pyttsx3
 import os
 import platform
-
+#интерпретатор изменён на python 3.13.7
 class CountdownTimer:
     def __init__(self, root):
         self.root = root
